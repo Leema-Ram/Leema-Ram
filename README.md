@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leema-Ram
+- 👋 Hi, I’m @Leema Ram
 - 👀 I’m interested in Programming, AI and Emerging Technology 
 - 🌱 I’m currently learning Frond End Development
 - 💞️ I’m looking to collaborate on Web Development Projects
